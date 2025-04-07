@@ -1,0 +1,7 @@
+.nav-link {
+    text-transform: lowercase;
+}
+
+.nav-link.active {
+    text-transform: uppercase;
+}
