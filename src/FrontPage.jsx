@@ -22,7 +22,7 @@ function FrontPage() {
                   <div className="mt-5 d-flex justify-content-center gap-4">
                     <a href="https://github.com/tupto" className="text-white fs-3"><FaGithub /></a>
                     <a href="https://linkedin.com/in/toby-sawyer-799b61106/" className="text-white fs-3"><FaLinkedin /></a>
-                    <a href="mailto:email@example.com" className="text-white fs-3"><FaEnvelope /></a>
+                    <a href="mailto:tupto50+work@gmail.com" className="text-white fs-3"><FaEnvelope /></a>
                   </div>
                 </Col>
               </Row>
