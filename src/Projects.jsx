@@ -67,7 +67,7 @@ const ProjectsShowcase = () => {
 
   const handleShowDetails = (project) => {
     // For additional projects, find the full project in featured projects if available
-    const fullProject = projectsData.featuredProjects.find(p => p.id === project.id) || project;
+    const fullProject = projectsData.find(p => p.id === project.id) || project;
     setActiveProject(fullProject);
     setShowModal(true);
   };
